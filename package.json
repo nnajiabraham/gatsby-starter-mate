@@ -28,7 +28,7 @@
   "homepage": "https://github.com/EmaSuriano/gatsby-starter-mate#readme",
   "dependencies": {
     "babel-plugin-styled-components": "^1.7.1",
-    "chalk": "^2.4.1",
+    "chalk": "^2.4.2",
     "clean-dir": "^1.0.3",
     "contentful": "^7.0.3",
     "contentful-import": "^7.4.0",
